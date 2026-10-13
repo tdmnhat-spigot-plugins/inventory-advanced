@@ -1,0 +1,8 @@
+name: InventoryAdvanced
+description: $description
+version: '${version}'
+
+main: dev.tdmnhat.plugin.spigot.InventoryAdvanced
+api-version: '26.1'
+
+authors: [ tdminhnhat ]
